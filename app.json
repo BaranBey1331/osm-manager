@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1d57bd67-7173-4baa-8f59-27b2075595cf"
+      }
+    },
+    "owner": "baran1331"
   }
 }
